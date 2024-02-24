@@ -49,11 +49,11 @@ section {
 
 .box {
     background: white;
-    padding: 30px;
+    padding: 20px;
     box-shadow: 0 0 15px var(--Grayish-Blue);
     border-radius: 10px;
-    width: 400px;
-    border-top: 4px solid;
+    width: 380px;
+    border-top: 3px solid;
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     -ms-border-radius: 10px;
