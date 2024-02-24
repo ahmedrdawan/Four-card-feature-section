@@ -39,7 +39,7 @@ main {
 .container header p {
     width: 530px;
     color: var(--Grayish-Blue);
-    margin: 0 auto 30px;
+    margin: 0 auto 60px;
 }
 section {
     display: flex;
@@ -53,7 +53,7 @@ section {
     box-shadow: 0 0 15px var(--Grayish-Blue);
     border-radius: 10px;
     width: 400px;
-    border-top: 5px solid;
+    border-top: 4px solid;
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     -ms-border-radius: 10px;
@@ -77,7 +77,7 @@ section {
 }
 .box p {
     color: var(--Grayish-Blue);
-    margin-bottom: 25px;
+    width: 300px;
     width: 300px;
 }
 .box .image {
